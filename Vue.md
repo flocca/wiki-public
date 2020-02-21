@@ -29,5 +29,9 @@ vue ui
 
 ## Componenti
 
+* [La guida ufficiale](https://vuejs.org/v2/guide/components.html)
+
+### Suggerimenti
+
 * Non modificare le proprietà direttamente nel componente. Usare gli eventi per comunicare con chi sta usando il componente.
   * [Vue Error: Avoid Mutating a Prop Directly](https://michaelnthiessen.com/avoid-mutating-prop-directly/)
