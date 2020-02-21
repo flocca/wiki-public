@@ -26,3 +26,8 @@ Creare il progetto utilizzando la GUI:
 ```
 vue ui
 ```
+
+## Componenti
+
+* Non modificare le proprietà direttamente nel componente. Usare gli eventi per comunicare con chi sta usando il componente.
+  * [Vue Error: Avoid Mutating a Prop Directly](https://michaelnthiessen.com/avoid-mutating-prop-directly/)
