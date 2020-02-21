@@ -33,5 +33,5 @@ vue ui
 
 ### Suggerimenti
 
-* Non modificare le proprietà direttamente nel componente. Usare gli eventi per comunicare con chi sta usando il componente.
+* Non modificare le proprietà direttamente nel componente. Le proprietà servono per comunicare (passare dati) al figlio. Usare invece gli eventi per comunicare dal componente figlio verso il padre.
   * [Vue Error: Avoid Mutating a Prop Directly](https://michaelnthiessen.com/avoid-mutating-prop-directly/)
