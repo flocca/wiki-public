@@ -35,3 +35,8 @@ vue ui
 
 * Non modificare le proprietà direttamente nel componente. Le proprietà servono per comunicare (passare dati) al figlio. Usare invece gli eventi per comunicare dal componente figlio verso il padre.
   * [Vue Error: Avoid Mutating a Prop Directly](https://michaelnthiessen.com/avoid-mutating-prop-directly/)
+
+## Vue + Firebase
+
+* [Vuex Easy Firestore](https://github.com/mesqueeb/vuex-easy-firestore)
+  * *"In just 4 lines of code, get your vuex module in complete 2-way sync with firestore"*
