@@ -38,5 +38,7 @@ vue ui
 
 ## Vue + Firebase
 
-* [Vuex Easy Firestore](https://github.com/mesqueeb/vuex-easy-firestore)
-  * *"In just 4 lines of code, get your vuex module in complete 2-way sync with firestore"*
+### Vuex Easy Firestore
+*"In just 4 lines of code, get your vuex module in complete 2-way sync with firestore"*.
+* [GitHub](https://github.com/mesqueeb/vuex-easy-firestore)
+* [Documentazione](https://mesqueeb.github.io/vuex-easy-firestore/)
