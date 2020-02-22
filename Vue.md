@@ -27,7 +27,7 @@ Creare il progetto utilizzando la GUI:
 vue ui
 ```
 
-## Componenti
+## Components (Componenti)
 
 * [La guida ufficiale](https://vuejs.org/v2/guide/components.html)
 
