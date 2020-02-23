@@ -17,6 +17,14 @@ firebase login
 firebase init functions
 ```
 
+### Aggiunta dipendenze
+
+```
+cd functions
+npm install moment
+cd ..
+```
+
 ### Deploy
 
 Versione di sviuluppo (development):
