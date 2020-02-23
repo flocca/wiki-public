@@ -2,6 +2,8 @@
 
 ## Firebase Functions
 
+* https://firebase.google.com/docs/functions
+
 Installare globalmente (o aggiornare) il pacchetto `firebase-tools`:
 
 ```
