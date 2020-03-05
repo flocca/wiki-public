@@ -2,6 +2,8 @@
 
 ## Installazione degli strumenti
 
+### macOS Catalina
+
 Seguire le istruzioni avanzate qua:
 
 https://docs.nativescript.org/angular/start/ns-setup-os-x
