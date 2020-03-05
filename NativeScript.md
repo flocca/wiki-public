@@ -142,6 +142,7 @@ android {
 
 - [NativeScript Theme: Core V2](https://github.com/NativeScript/theme)
 - [CSS Themes for NativeScript Apps](https://docs.nativescript.org/ui/theme)
+- [Sass Color Generator](http://scg.ar-ch.org)
 
 ### Light/Dark mode
 
