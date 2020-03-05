@@ -126,7 +126,7 @@ android {
 }
 ```
 
-## Link utili in fase di svilutto
+## Link utili in fase di sviluppo
 
 - [RadListView for Vue](https://docs.nativescript.org/vuejs/ns-ui/ListView/overview)
 - [NativeScript App Templates](https://github.com/NativeScript/nativescript-app-templates)
@@ -138,3 +138,15 @@ android {
 - https://docs.nativescript.org/api-reference/interfaces/_ui_frame_.navigationentry
 - https://docs.nativescript.org/api-reference/interfaces/_ui_frame_.navigationtransition
 - https://docs.nativescript.org/api-reference/modules/_ui_enums_.animationcurve
+
+## Light/Dark mode
+
+Per impostare il tema chiaro/scuro della app, inserire la class `.ns-dark` o `.ns-light` nell'elemento `<Frame>` in `app.js`:
+
+```
+new Vue({
+  template: `
+    <Frame class="ns-dark">
+      <Home />
+    </Frame>`,
+```
