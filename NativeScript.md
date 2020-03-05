@@ -132,14 +132,18 @@ android {
 - [NativeScript App Templates](https://github.com/NativeScript/nativescript-app-templates)
 - [NativeScript-Vue Docs](https://nativescript-vue.org/en/docs/introduction/)
 - [CSS Themes for NativeScript Apps (outdated)](https://docs.nativescript.org/ui/theme)
-- [NativeScript Theme: Core V2](https://github.com/NativeScript/theme)
 - [nativescript-plugin-firebase Docs](https://github.com/EddyVerbruggen/nativescript-plugin-firebase/tree/master/docs)
 - [Firebase Functions Samples](https://github.com/firebase/functions-samples)
 - https://docs.nativescript.org/api-reference/interfaces/_ui_frame_.navigationentry
 - https://docs.nativescript.org/api-reference/interfaces/_ui_frame_.navigationtransition
 - https://docs.nativescript.org/api-reference/modules/_ui_enums_.animationcurve
 
-## Light/Dark mode
+## Theme
+
+- [NativeScript Theme: Core V2](https://github.com/NativeScript/theme)
+- [CSS Themes for NativeScript Apps](https://docs.nativescript.org/ui/theme)
+
+### Light/Dark mode
 
 Per impostare il tema chiaro/scuro della app, inserire la class `.ns-dark` o `.ns-light` nell'elemento `<Frame>` in `app.js`:
 
