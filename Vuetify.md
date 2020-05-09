@@ -9,6 +9,14 @@ Avviare Vue UI:
 vue ui
 ```
 
+Dal **Gestore Progetti Vue**, scegliere **Crea**, spostarsi nella cartella **src** e premere **Crea un nuovo progetto qui**.
+
+* Dettagli
+  * Cartella del progetto: *nomeprogetto*
+  * Gestore pacchetti: *yarn*
+  * Git repository: *Inizializza il repository git (consigliato)*
+
+  
 Dal menu **Plugin**, premere il pulsante **Aggiungi plugin** e inserire `vuetify` nel campo di ricerca.
 
 Selezionare e installare il plugin ```vue-cli-plugin-vuetify```.
