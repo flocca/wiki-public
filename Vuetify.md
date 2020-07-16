@@ -63,3 +63,16 @@ Verrà chiesto di selezionare un `preset`, scegliere `Configure (advanced)`.
 Attivare tutte le opzioni eccetto `Use fonts as a dependency` e scegliere `Italy` come locale.
 
 Premere **Completa l'installazione**. Completata l'installazione premere **Continua**.
+
+## Correzioni
+
+Correggere le regole ESlint (rules) in package.json:
+
+```
+"rules": {
+  "import/extensions": [
+    "error",
+    "never"
+  ]
+}
+```
