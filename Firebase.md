@@ -53,12 +53,18 @@ Emulators Setup:
 * Conferma il download degli emulatori ora con `y`.
 
 
-### Aggiunta dipendenze
+### Aggiungere eventualmente l'ambiente di produzione
+
+Aggiungere eventualmente l'ambiente di produzione modificando il file `.firebaserc`:
 
 ```
-cd functions
-npm install moment
-cd ..
+{
+  "projects": {
+    "default": "studio-alfa-dev",
+    "production": "studio-alfa",
+    "development": "studio-alfa-dev"
+  }
+}
 ```
 
 ## Firebase Hosting
