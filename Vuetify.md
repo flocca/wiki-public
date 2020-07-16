@@ -76,3 +76,9 @@ Correggere le regole ESlint (rules) in package.json:
   ]
 }
 ```
+
+Correggere l'url delle icone in `public/index.html`:
+
+```
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@mdi/font@4.9.95/css/materialdesignicons.min.css">
+```
