@@ -42,7 +42,6 @@ Dal **Gestore Progetti Vue**, scegliere **Crea**, spostarsi nella cartella **src
 
 * Funzionalità
   * Babel
-  * TypeScript
   * Router
   * Vuex
   * CSS Pre-processors
@@ -54,7 +53,8 @@ Dal **Gestore Progetti Vue**, scegliere **Crea**, spostarsi nella cartella **src
   * Pick a CSS pre-processor: Sass/SCSS (with node-sass)
   * Pick a linter / formatter config: ESLint + Airbnb config
   * Lint on save
-  
+
+Premere **Crea Progetto** poi **Continua senza salvare**.
 
 Dal menu **Plugin**, premere il pulsante **Aggiungi plugin** e inserire `vuetify` nel campo di ricerca.
 
