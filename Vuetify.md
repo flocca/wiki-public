@@ -48,8 +48,6 @@ Dal **Gestore Progetti Vue**, scegliere **Crea**, spostarsi nella cartella **src
   * Linter / Formatter
 
 * Configurazione
-  * Use class-style component syntax
-  * Use Babel alongside Typescript
   * Pick a CSS pre-processor: Sass/SCSS (with node-sass)
   * Pick a linter / formatter config: ESLint + Airbnb config
   * Lint on save
