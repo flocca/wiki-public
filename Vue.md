@@ -1,5 +1,7 @@
 # Vue.js
 
+## Installazione e aggiornamento
+
 Installare globalmente Vue CLI versione 3 se non lo si è già fatto (è richiesto Node.js versione 8.11.0+):
 
 ```
