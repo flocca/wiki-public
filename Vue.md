@@ -44,3 +44,7 @@ vue ui
 *"In just 4 lines of code, get your vuex module in complete 2-way sync with firestore"*.
 * [GitHub](https://github.com/mesqueeb/vuex-easy-firestore)
 * [Documentazione](https://mesqueeb.github.io/vuex-easy-firestore/)
+
+## Altro
+
+* https://cli.vuejs.org/guide/mode-and-env.html
