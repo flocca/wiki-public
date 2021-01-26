@@ -77,3 +77,4 @@ valet install
 - https://roots.io/guides/wordpress-local-development-on-os-x-with-valet-and-bedrock/
 - https://roots.io/docs/bedrock/master/local-development/#additional-resources
 - https://github.com/aaemnnosttv/wp-cli-valet-command
+- https://github.com/roots/trellis/issues/1253
