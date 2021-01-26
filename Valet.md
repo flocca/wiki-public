@@ -70,3 +70,10 @@ valet install
 composer global update
 valet install
 ```
+
+# Fonti
+
+- https://laravel.com/docs/8.x/valet
+- https://roots.io/guides/wordpress-local-development-on-os-x-with-valet-and-bedrock/
+- https://roots.io/docs/bedrock/master/local-development/#additional-resources
+- https://github.com/aaemnnosttv/wp-cli-valet-command
