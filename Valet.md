@@ -55,3 +55,18 @@ Per tornare ad utilizzare l'ultima versione fornita tramite Homebrew:
 ```
 valet use php
 ```
+
+## Reset dell'installazione
+
+```
+composer global update
+# valet uninstall --force
+valet install
+```
+
+## Aggiornamento
+
+```
+composer global update
+valet install
+```
