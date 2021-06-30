@@ -1,5 +1,11 @@
 # Il mio Wiki pubblico
 
+## Crypto
+
+### DeFi
+
+* [Revocare Smart Contract]()
+
 ## Sviluppo mobile
 
 * [NativeScript](NativeScript.md)
