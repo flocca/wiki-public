@@ -4,7 +4,7 @@
 
 ### DeFi
 
-* [Revocare Smart Contract]()
+* [Revocare Smart Contract](Revocare_Smart_Contract.md)
 
 ## Sviluppo mobile
 
